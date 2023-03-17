@@ -10,7 +10,7 @@
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>&nbsp;&nbsp;
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>&nbsp;&nbsp;  
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>&nbsp;&nbsp;
-  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50"/>&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>&nbsp;&nbsp;
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>&nbsp;&nbsp;
 </div>
 
