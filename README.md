@@ -1,6 +1,6 @@
 ### Oi, meu nome é Rafael Africo :)
 
-- 👨🏻‍💻 Atualmente trabalho como **Analista de suporte T.I** na empresa <a href="https://www.aegea.com.br.com/"> Aegea Saneamento e Participaçõees S.A</a>
+- 👨🏻‍💻 Atualmente trabalho como **Analista de suporte T.I** na empresa <a href="https://www.aegea.com.br"> Aegea Saneamento e Participaçõees S.A</a>
 - 🧗🏼 Formado em Analise e Desenvolvimento de Sistemas, ingressando na área de programação após mais de 16 anos trabalhando como Analista de Suporte, assim para agregar mais conhecimento e experiência no meu atual cenário, podendo aprimorar o meu dia a dia e processos no meu trabalho. 
 - 🖥️ Atualmente com conhecimentos basicos em:
 
